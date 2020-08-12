@@ -1,0 +1,11 @@
+{
+  "name": "programers-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Robert539/api-programadores.git",
+  "author": "Robert Meurer <robertmeureraraujo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
